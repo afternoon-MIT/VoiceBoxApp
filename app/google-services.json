@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "650666010895",
+    "firebase_url": "https://voice-box-app-default-rtdb.firebaseio.com",
+    "project_id": "voice-box-app",
+    "storage_bucket": "voice-box-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650666010895:android:4fde35cac9f5ec5068367a",
+        "android_client_info": {
+          "package_name": "com.example.voiceboxapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650666010895-opb7hmif48759e269laoedcbe8q96c3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBekjWmwSdz3FW7HjGb5d01ITP4KroL7y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650666010895-opb7hmif48759e269laoedcbe8q96c3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
